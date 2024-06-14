@@ -1,6 +1,5 @@
 package hao.com.manager.appbanhang.activity;
 
-import android.app.Dialog;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -67,7 +66,7 @@ public class ViewOrdersActivity extends AppCompatActivity {
                             redonhang.setAdapter(adapter);
                         },
                         throwable -> {
-                            Log.d(e.)
+
                         }
                 ));
     }
